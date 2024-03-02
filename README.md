@@ -8,7 +8,7 @@ I'm a full stack engineer working within the MERN stack (MongoDB, Express, React
 
 * 🌍  I'm based in San Francisco, CA
 * ✉️  You can contact me at [blake.crawford@outlook.com](mailto:blake.crawford@outlook.com)
-* 🧠  I'm learning Remix
+* 🧠  I'm learning React Native
 * ⚡  Let's talk about rollerblading.
 
 ### Skills
